@@ -7,7 +7,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
     old_browser: "Voi ei, selaimesi on liian vanha CodeCombatialle. Pahoittelumme!" # Warning that shows up on really old Firefox/Chrome/Safari
     old_browser_suffix: "Voit toki kokeilla, mutta kohtaat todennäköisesti ongelmia."
     ipad_browser: "Huonot uutiset: CodeCombat ei toimi iPad:in selaimella. Hyvät uutiset: CodeCombat app iPad:ille on pian valmis."
-    campaign: "Kamppanja"
+    campaign: "Kampanja" 
     for_beginners: "Aloittelijoille"
     multiplayer: "Moninpeli" # Not currently shown on home page
     for_developers: "Kehittäjille" # Not currently shown on home page.
